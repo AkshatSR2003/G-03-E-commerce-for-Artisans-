@@ -1,5 +1,6 @@
 # Minor_02
 E-commerce website 
 
-# akshay keswani
+# Akshat Singh Rathore
+# Akshay keswani
 # Akshat Singh Gour
