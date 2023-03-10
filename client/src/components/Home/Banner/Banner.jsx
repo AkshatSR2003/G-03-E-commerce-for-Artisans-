@@ -8,11 +8,9 @@ const Banner = () => {
         <div className="hero-banner">
             <div className="content">
                 <div className="text-content">
-                    <h1>SALES</h1>
+                    <h1>Artisans</h1>
                     <p>
-                        Convallis interdum purus adipiscing dis parturient
-                        posuere ac a quam a eleifend montes parturient posuere
-                        curae tempor
+                    “Art is not a handicraft, it is the transmission of feeling the artist has experienced.”
                     </p>
                     <div className="ctas">
                         <div className="banner-cta">Read More</div>
