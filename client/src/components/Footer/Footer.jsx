@@ -9,10 +9,7 @@ const Footer = () => {
                 <div className="col">
                     <div className="title">About</div>
                     <div className="text">
-                        Voluptatem accusantium doloremque laudantium, totam rem
-                        aperiam, eaque ipsa quae ab illo inventore veritatis et
-                        quasi architecto beatae vitae dicta sunt explicabo eaque
-                        ipsa quae ab illo.
+                    In this project, an attempt has been made to highlight the role of E-commerce in the development of rural artisans in India by illustrating some efforts of Government and Non-Government agencies.
                     </div>
                 </div>
                 <div className="col">
@@ -20,17 +17,16 @@ const Footer = () => {
                     <div className="c-item">
                         <FaLocationArrow />
                         <div className="text">
-                            Kayaloram Rd, Punnamada, Kottankulangara, Alappuzha,
-                            Kerala, 688006
+                            Indore, 452001
                         </div>
                     </div>
                     <div className="c-item">
                         <FaMobileAlt />
-                        <div className="text">Phone: 0471 272 0261</div>
+                        <div className="text">Phone: 0731 XXX XXXX</div>
                     </div>
                     <div className="c-item">
                         <FaEnvelope />
-                        <div className="text">Email: store@jsdev.com</div>
+                        <div className="text">Email: store@Artisans.com</div>
                     </div>
                 </div>
                 <div className="col">
@@ -47,7 +43,6 @@ const Footer = () => {
                     <span className="text">Home</span>
                     <span className="text">About</span>
                     <span className="text">Privacy Policy</span>
-                    <span className="text">Returns</span>
                     <span className="text">Terms & Conditions</span>
                     <span className="text">Contact Us</span>
                 </div>
