@@ -30,7 +30,8 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className="col">
-                    <div className="title">Dhokra Craft</div>
+                    <div className="title">Categories</div>
+                    <div className="text">Dhokra Craft</div>
                     <span className="text">Wall art</span>
                     <span className="text">Jewellery</span>
                     <span className="text">Handmade Decor</span>
