@@ -9,12 +9,12 @@ import SingleProduct from "./components/SingleProduct/SingleProduct";
 import Newsletter from "./components/Footer/Newsletter/Newsletter";
 import AppContext from "./utils/context";
 
-import Login from '../src/components/Login/Login'
-import Register from '../src/components/Login/Dashboard'
-import Dashboard from '../src/components/Login/Dashboard'
-import Demo from '../src/components/Login/Demo'
-import '../src/components/Login/Login.css'
 // import { Switch } from "@material-ui/core";
+
+import Login from "./components/Login/Client Side/client/src/components/Login"
+import SignUp from "./components/Login/Client Side/client/src/components/SignUp"
+
+
 
 function App() {
     return (
@@ -25,10 +25,9 @@ function App() {
                     <Route path="/" element={<Home />} />
                     <Route path="/category/:id" element={<Category />} />
                     <Route path="/product/:id" element={<SingleProduct />} />
-                    <Route path='/login' element={<Login />} />
-                    <Route path='/register' element={<Register />} />
-                    <Route path='/dashboard' element={<Dashboard />} /> 
-                    <Route path='/demo' element={<Demo />} />  
+                    <Route path="/signup" exact element={<SignUp />} />
+                    <Route path="/login" exact element={<Login />} />
+                    
                 </Routes>
                 <Newsletter />
                 <Footer />
