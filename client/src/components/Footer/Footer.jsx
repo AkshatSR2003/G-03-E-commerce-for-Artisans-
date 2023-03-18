@@ -9,7 +9,7 @@ const Footer = () => {
                 <div className="col">
                     <div className="title">About</div>
                     <div className="text">
-                    In this project, an attempt has been made to highlight the role of E-commerce in the development of rural artisans in India by illustrating some efforts of Government and Non-Government agencies.
+                        In this project, an attempt has been made to highlight the role of E-commerce in the development of rural artisans in India by illustrating some efforts of Government and Non-Government agencies.
                     </div>
                 </div>
                 <div className="col">
@@ -30,13 +30,11 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className="col">
-                    <div className="title">Categories</div>
-                    <span className="text">Headphones</span>
-                    <span className="text">Smart Watches</span>
-                    <span className="text">Bluetooth Speakers</span>
-                    <span className="text">Wireless Earbuds</span>
-                    <span className="text">Home Theatre</span>
-                    <span className="text">Projectors</span>
+                    <div className="title">Dhokra Craft</div>
+                    <span className="text">Wall art</span>
+                    <span className="text">Jewellery</span>
+                    <span className="text">Handmade Decor</span>
+                    <span className="text">Furniture</span>
                 </div>
                 <div className="col">
                     <div className="title">Pages</div>
@@ -50,7 +48,7 @@ const Footer = () => {
             <div className="bottom-bar">
                 <div className="bottom-bar-content">
                     <span className="text">
-                       Artisans 2023 PREMIUM E-COMMERCE SOLUTIONS.
+                        Artisans 2023 PREMIUM E-COMMERCE SOLUTIONS.
                     </span>
                     <img src={Payment} />
                 </div>

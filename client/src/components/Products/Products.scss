@@ -1,5 +1,6 @@
 @import "../../css-config/mixins.scss";
 .products-container {
+    
     margin: 50px 0;
     @include md {
         margin: 75px 0;
@@ -32,5 +33,7 @@
         @include md {
             gap: 20px;
         }
+        
     }
+     
 }
