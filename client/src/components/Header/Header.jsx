@@ -54,6 +54,7 @@ const Header = () => {
                     <ul className="left">
                         <li onClick={() => navigate("/")}>Home</li>
                         <li onClick={() => navigate("/about")}>About</li>
+                        {/* <li onClick={() => navigate("/login")}>Login</li> */}
                         <li>Categories</li>
                     </ul>
                     <div className="center" onClick={() => navigate("/")}>
@@ -62,15 +63,9 @@ const Header = () => {
 
                     <div className="right">
                         <TbSearch onClick={() => setSearchModal(true)} />
-                        {/* <AiOutlineHeart /> */}
-                        <BrowserRouter>
-                            <Routes>
-                                <Route exact path='/' component={Login} />
-                                <Route exact path='/register' component={Register} />
-                                <Route path='/dashboard' component={Dashboard} />
-                                {/* <Route component={NotFound}/> */}
-                            </Routes>
-                        </BrowserRouter>,
+                        {<AiOutlineHeart />}
+
+
                         <span
                             className="cart-icon"
                             onClick={() => setShowCart(true)}
