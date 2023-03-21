@@ -11,8 +11,8 @@ import AppContext from "./utils/context";
 
 // import { Switch } from "@material-ui/core";
 
-import Login from "./components/Login/Client Side/client/src/components/Login"
-import SignUp from "./components/Login/Client Side/client/src/components/SignUp"
+import Login from "./components/Login/Login/"
+import SignUp from "./components/Login/SignUp/"
 
 
 

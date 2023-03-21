@@ -1,9 +1,16 @@
 import React from "react";
-
 import "./Banner.scss";
 import BannerImg from "../../../assets/banner-img.png";
+import { Context } from "../../../utils/context";
+import { useContext } from "react";
+
+
 
 const Banner = () => {
+    const { setShowCart } = useContext(Context);
+    const handleClick = () => {
+        window.location.replace("https:en.wikipedia.org/wiki/Crafts_of_India");
+      };
     return (
         <div className="hero-banner">
             <div className="content">
@@ -13,8 +20,10 @@ const Banner = () => {
                     “Art is not a handicraft, it is the transmission of feeling the artist has experienced.”
                     </p>
                     <div className="ctas">
-                        <div className="banner-cta">Read More</div>
-                        <div className="banner-cta v2">Shop Now</div>
+                        <div className="banner-cta" onClick={handleClick}>
+                        Read More
+                        </div>
+                        <div className="banner-cta v2" onClick={() => setShowCart(true)}>Shop Now</div>
                     </div>
                 </div>
                 <img className="banner-img" src={BannerImg} />

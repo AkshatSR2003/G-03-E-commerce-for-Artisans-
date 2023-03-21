@@ -2,12 +2,14 @@ import { useEffect, useState, useContext } from "react";
 import { useNavigate } from "react-router-dom";
 import { TbSearch } from "react-icons/tb";
 import { CgShoppingCart } from "react-icons/cg";
-import { AiOutlineHeart } from "react-icons/ai";
+import { AiOutlineUser } from "react-icons/ai";
 import "./Header.scss";
 import Search from "./Search/Search";
 import { Context } from "../../utils/context";
 import Cart from "../Cart/Cart";
 import React from 'react';
+
+
 
 
 
@@ -40,8 +42,7 @@ const Header = () => {
                     <ul className="left">
                         <li onClick={() => navigate("/")}>Home</li>
                         <li onClick={() => navigate("/about")}>About</li>
-                       
-                        <li>Categories</li>
+                        <li onClick={() => navigate("/products")}>Categories</li>
                     </ul>
                     <div className="center" onClick={() => navigate("/")}>
                         Artisans
@@ -49,7 +50,7 @@ const Header = () => {
 
                     <div className="right">
                         <TbSearch onClick={() => setSearchModal(true)} />
-                        {<AiOutlineHeart />}
+                        {<AiOutlineUser onClick={() => navigate("/login")}/>}
 
 
                         <span
