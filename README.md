@@ -24,7 +24,6 @@
 # Project Coordinator:
 #### - **Prof.Priyanka Jangde**
 
-#### - **Prof.Narendra Pal Singh Rathore**
 
 <hr>
 
