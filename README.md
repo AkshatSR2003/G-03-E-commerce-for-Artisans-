@@ -1,4 +1,4 @@
-# E-commerce report 
+# E-commerce for Artisans
 ### Minor Project
 
 ### Acropolis Institute of technology and Research
@@ -7,13 +7,14 @@
 ## Authors
 
 #### 1. Akshay Keswani
+[@its-akshay](https://www.github.com/its-akshay)
 
 #### 2. Akshat Singh gour
 
 #### 3. Akshat Singh Rathore
 
 #### 4. Aayush gupta
-- [@octokatherine](https://www.github.com/octokatherine)
+
 
 
 
