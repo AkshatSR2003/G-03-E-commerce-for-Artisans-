@@ -47,6 +47,8 @@ E-commerce for artisans
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/gE0hYQYKClg)
 
 
+Research Paper: <a href="[https://www.google.com/](https://ijsrem.com/download/e-commerce-for-artisans/)" target="_blank"></a>
+
 
 
 ## Screenshots
