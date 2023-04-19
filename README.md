@@ -89,8 +89,8 @@ To run this project, you will need to add the following environment variables to
 
 
 ## Demo
-
-
+![]
+(https://github.com/AkshatSR2003/Minor_02/blob/main/New-video.gif)
 
 ## Run Locally
 
