@@ -11,10 +11,11 @@
 
 #### 2. Akshat Singh gour
 
+[@akshat123007https://github.com/akshat123007)
 #### 3. Akshat Singh Rathore
-
+[@AkshatSR2003](https://github.com/AkshatSR2003)
 #### 4. Aayush gupta
-
+[@AayushGuptaP1](https://github.com/AayushGuptaP1)
 # Project Coordinator:
 #### - **Prof.Priyanka Jangde**
 
@@ -87,7 +88,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Demo
 
-Insert gif or link to demo
+
 
 ## Run Locally
 
