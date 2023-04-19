@@ -2,7 +2,7 @@
 ### Minor Project
 
 ### Acropolis Institute of technology and Research
-# [YouTube Link](https://youtu.be/gE0hYQYKClg)
+
 
 ## Authors
 
@@ -14,9 +14,6 @@
 #### 3. Akshat Singh Rathore
 
 #### 4. Aayush gupta
-
-
-
 
 # Project Coordinator:
 #### - **Prof.Priyanka Jangde**
@@ -38,6 +35,15 @@ E-commerce for artisans
 **API:** Strapi
 
 **payment gateway:** stripe
+
+
+
+## 🔗 Links
+
+
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/gE0hYQYKClg)
+
+
 
 
 ## Screenshots
