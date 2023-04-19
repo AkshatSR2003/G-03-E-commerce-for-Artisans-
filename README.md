@@ -4,12 +4,7 @@
 ### Acropolis Institute of technology and Research
 # [YouTube Link](https://youtu.be/gE0hYQYKClg)
 
-
-
-
-<hr>
-
-# Project Contributors:
+## Authors
 
 #### 1. Akshay Keswani
 
@@ -18,11 +13,13 @@
 #### 3. Akshat Singh Rathore
 
 #### 4. Aayush gupta
+- [@octokatherine](https://www.github.com/octokatherine)
 
-<hr>
+
 
 # Project Coordinator:
 #### - **Prof.Priyanka Jangde**
+
 
 
 <hr>
@@ -73,9 +70,5 @@ To run this project, you will need to add the following environment variables to
 
 Insert gif or link to demo
 
-
-## Authors
-
-- [@octokatherine](https://www.github.com/octokatherine)
 
 
